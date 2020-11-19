@@ -17,7 +17,7 @@ matrix:
           - ./vendor/bin/simple-phpunit $PHPUNIT_FLAGS
     - language: node_js
       node_js:
-        - 10.13.0
+        - lts/*
       sudo: false
       script:
         - yarn install
