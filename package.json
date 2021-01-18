@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "@jest/globals": "^26.6.1",
-        "antd": "^4.8.5",
+        "antd": "^4.9.4",
         "react": "^16.14.0",
         "react-dom": "^16.14.0",
         "react-router-dom": "^5.2.0"
